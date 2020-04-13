@@ -1,0 +1,49 @@
+body {
+  background-color: #F8F8FF;
+}
+
+h1, h3, #img-caption {
+  font-family: 'Merriweather', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 600%;
+}
+
+h3 {
+  font-size: 150%;
+}
+
+h4 {
+  
+  font-size: 150%;
+  padding: 1% 10%;
+}
+
+#img-caption {
+  
+  font-size: 100%;
+  padding: 1% 10%;
+}
+
+img.align-center {
+  display: block;
+  margin: 0px auto;
+  max-width: 100%;
+}
+
+p {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.5em;
+  text-align: left;
+  padding: 1% 10%;
+}
+
+a {
+  text-decoration: underline;
+  color: #000;
+}
+
+a:hover {
+    text-decoration: none;
